@@ -11,3 +11,6 @@ Same for the bean life cycle - com.anand.beanlifecycle package
 Run the application InterviewSpringApplication as Spring boot Application / Java application.
 
  
+#3 
+com.anand.springevents - Shows example of Customer Event / service and Publisher.
+How Events are created, publish events, and listen to the events

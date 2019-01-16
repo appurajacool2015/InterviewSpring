@@ -17,5 +17,6 @@ public class ElephantService {
 	@PreDestroy
 	public void destroy() {
 		System.out.println("ElephantService:: Inside @PreDestroy method");		
+		System.out.println("=======================LIFECYCLE OF BEAN ENDS=========================");		
 	}
 }
